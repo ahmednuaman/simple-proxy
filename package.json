@@ -1,0 +1,25 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "A simple local IoT proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmednuaman/simple-proxy.git"
+  },
+  "keywords": [],
+  "author": "Ahmed Nuaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmednuaman/simple-proxy/issues"
+  },
+  "homepage": "https://github.com/ahmednuaman/simple-proxy#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http-proxy": "^1.16.2",
+    "request": "^2.79.0"
+  }
+}
